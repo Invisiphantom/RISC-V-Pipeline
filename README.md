@@ -1,4 +1,4 @@
-# RISC-V-Mult-Cycle
+# RISC-V-Pipeline
 ## Supported ISA:
 - RV32I (without lui、auipc、ecall、ebreak)
 ## Reference Material:
@@ -44,7 +44,7 @@ WSL、Code Runner、TerosHDL
 - **arch.v**
   
 
-![image](https://raw.githubusercontent.com/Invisiphantom/RISC-V-Pipeline/main/SVG/arch.svg)
+![image](https://raw.githubusercontent.com/Invisiphantom/RISC-V-Pipeline/main/SVG/RISC-V-Pipeline.png)
 ---
 - **Control.v**
   
